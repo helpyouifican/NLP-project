@@ -5,6 +5,7 @@ streamlit run home.py 로 실행
 ```
 NLP project
 Microsoft AI school 3rd 2team
+차재경,문건웅,장유라,장운의,박재열,임경호
 
 1. 일기 검사
 2. 심리상담
