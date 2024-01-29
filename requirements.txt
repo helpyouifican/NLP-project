@@ -5,6 +5,7 @@ opencv_python_headless
 Pillow
 protobuf
 streamlit
+SentenceTransformer
 extra-streamlit-components
 streamlit-option-menu
 google-cloud-vision
